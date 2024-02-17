@@ -1,0 +1,33 @@
+.one{
+    margin-top: 10% !important;
+}
+.form-label{
+    color: white;
+   
+}
+input[type='text']{
+    color: red;
+}
+.bts{
+    background-color: white;
+   width:15%;
+   height:9%;
+   border-radius: 5%;
+    border: none;
+}
+.bd{
+   background-image: url(marvel.jpg);
+   background-position: center;
+   background-size: cover;
+}
+.bts:hover{
+ background-color: black;
+ color: white;
+}
+.add{
+    color: grey;
+}
+.bow{
+    backdrop-filter: blur(4px);
+    
+}
